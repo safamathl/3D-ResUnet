@@ -8,7 +8,6 @@ This is a repository containing code of 3D Deep  Residual-Unet Networks for Volu
 
 3D data of knee are used with ```255 * 255 * 216``` size and a manually created 3D segmentation label controled by experts.
 
-> All the used data are available under the _train_ directory.
 
 Training-data are divided into two sub-directories:
 
