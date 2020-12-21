@@ -47,3 +47,10 @@ python test.py
 
 >  **parameter.py**, contain all the parameter, so first set dataset path of your own. 
 after the model is well trained, run **test.py** to test the model on test set, if you want to use DenseCRF as post processing, run **./Densecrf/3D-CRF.py** if you get enough memory, or run **./Densecrf/2D-CRF.py** other wise.
+
+
+## Author : 
+Mathlouthi Safa
+
+## contact : 
+mathlouthisafa94@gmail.com
