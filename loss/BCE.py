@@ -1,6 +1,6 @@
 """
 
-二值交叉熵损失函数
+Fonction de perte d'entropie croisée binaire
 """
 
 import torch.nn as nn
